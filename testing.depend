@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605634529 source:/home/makrm/Desktop/testing/main.c
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<string.h>
+
